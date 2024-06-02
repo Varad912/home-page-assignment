@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Clarified Vision & Target",
+        "image": "why-choose-us/icon1.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quisquam, dolor quas in qui architecto."
+    },
+    {
+        "title": "High Performance",
+        "image": "why-choose-us/icon2.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quisquam, dolor quas in qui architecto."
+    },
+    {
+        "title": "Maintain Security",
+        "image": "why-choose-us/icon3.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quisquam, dolor quas in qui architecto."
+    },
+    {
+        "title": "Better Strategy & Quality",
+        "image": "why-choose-us/icon4.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quisquam, dolor quas in qui architecto."
+    }
+]

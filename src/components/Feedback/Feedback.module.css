@@ -1,0 +1,62 @@
+@import '../../vars.css';
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 15.8%;
+    padding-right: 15.8%;
+ 
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  
+  .content {
+    flex: 1;
+    padding-right: 20px;
+    text-align: center;
+    margin-right: 15px;
+  }
+  
+  .title {
+    margin-top: 50px;
+    color: var(--color-primary);
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .heading {
+    font-size: 32px;
+    margin-bottom: 40px;
+  }
+
+  .personDetail{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .content h6{
+    font-size: small;
+    text-align: left;
+    margin-bottom: 18px;
+  }
+
+  .name{
+    color: var(--color-primary);
+  }
+
+  .post{
+    opacity:50%;
+  }
+
+  .area {
+    padding-right: 15.8%;
+    height: 100px; 
+    background-color: var(--color-primary);
+
+    
+  }

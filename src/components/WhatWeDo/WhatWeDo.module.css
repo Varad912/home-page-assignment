@@ -1,0 +1,124 @@
+@import '../../vars.css';
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 15.8%;
+    padding-right: 15.8%;
+    background-color: rgb(253, 251, 251);
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.content {
+    flex: 1;
+    padding-right: 20px;
+    text-align: left;
+    width: 60%;
+    margin-right: 15px;
+}
+
+.title {
+    margin-top: 20px;
+    color: var(--color-primary);
+    font-size: 16px; 
+    margin-bottom: 16px;
+}
+
+.description {
+    font-size: 10px; 
+    flex-wrap: wrap;
+    width: 55%;
+}
+
+.details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.heading {
+    font-size: 32px; 
+    width: 45%;
+    margin-right: 70px;
+    margin-bottom: 60px;
+}
+
+.images{
+    display: flex;
+    flex-direction: row;
+    height: 10px;
+ 
+}
+
+.image{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+   
+}
+
+.content2 {
+    display: flex;
+    flex-direction: row;
+    padding-right: 20px;
+    text-align: left;
+    width: 60%;
+    margin-right: 15px;
+}
+
+
+.design {
+    background-color: var(--color-primary);
+    width: 90%;
+    height: 100%;
+    align-items: center;
+    color: aliceblue;
+    justify-content: center;
+
+    
+  }
+  
+.icon{
+    width: 35px;
+    margin-left: 85px;
+    margin-right: 50px;
+    margin-top: 60px;
+}
+
+.design h4{
+    font-size: medium;
+    margin-top: 18px;
+    margin-left: 30px;
+}
+
+.design p{
+    font-size: xx-small;
+    margin-top: 18px;
+    margin-left: 30px;
+    margin-right: 28px;
+    align-items: center;
+    text-align: center;
+}
+
+.readMoreBtn{
+    border: none;
+    border-radius: 2px;
+    color: var(--color-primary);
+    margin-left: 37px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 20px;
+
+ 
+}
+
+
+
+
+
+

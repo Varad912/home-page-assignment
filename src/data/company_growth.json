@@ -1,0 +1,22 @@
+[
+    {
+      "icons": "company-growth/icon1.png",
+      "numbers": "199 +",
+      "about": "Satisfied Customers"
+    },
+    {
+      "icons": "company-growth/icon2.png",
+      "numbers": "1591 +",
+      "about": "Days of Operation"
+    },
+    {
+      "icons": "company-growth/icon3.png",
+      "numbers": "283 +",
+      "about": "Complete Project"
+    },
+    {
+        "icons": "company-growth/icon4.png",
+        "numbers": "75 +",
+        "about": "Win Awards"
+      }
+  ]
